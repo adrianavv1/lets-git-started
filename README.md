@@ -32,7 +32,7 @@ Just head over to the GitHub page and click the "Fork" button. It's just that si
 git clone git@github.com:USERNAME/FORKED-PROJECT.git
 ```
 
-## Keping Your Fork Up-To-Date
+## Keeping Your Fork Up-To-Date
 We will go over this in the study group, but you can read [this document][up-to-date] to get a head start.
 
 ---
